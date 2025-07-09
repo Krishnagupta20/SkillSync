@@ -1,0 +1,19 @@
+# Global
+.env
+__pycache__/
+*.pyc
+*.log
+node_modules/
+dist/
+build/
+.vscode/
+*.sqlite3
+*.DS_Store
+
+# Django
+/media
+/staticfiles
+
+# Next.js
+.next
+out
